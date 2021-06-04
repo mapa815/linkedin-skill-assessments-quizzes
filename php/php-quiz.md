@@ -523,4 +523,4 @@ class Cow {
 - [ ] NULL is a blank value; empty is the lack of a value.
 - [ ] A NULL value has an allocated address in memory; empty does not.
 - [ ] NULL referes to the lack of a value for an integer; empty refers to the lack of a value for a string.
-- [ ] NULL is the lack of a value; empty is a blank value.
+- [x] NULL is the lack of a value; empty is a blank value.
